@@ -1,0 +1,21 @@
+.contactUsColor{
+  border-color: #00a000;
+}
+.aboutUsColor{
+  border-color: #00008f;
+  color: #00008f;
+}
+
+.aboutUsColor:hover{
+  background-color: #00008f;
+}
+
+.pricing{
+  text-align: right;
+  color: #00a000;
+}
+
+.lists{
+  text-align: left;
+  color: #00008f;
+}
