@@ -10,6 +10,10 @@
   background-color: #00008f;
 }
 
+.aboutUsColor:active{
+ background-color: #00008f;
+}
+
 .pricing{
   text-align: right;
   color: #00a000;
